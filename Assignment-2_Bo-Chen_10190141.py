@@ -6,7 +6,7 @@ July 24, 2017
 This is a Python version 3.6 of the Print Queue Simulator.
 This program simulates a printing queue. It has four major functions:
 Job Submit, Print, Queue Contents, and Remove. 
-I also reads in commands from online textfiles.
+It also reads in commands from online textfiles.
 Detailed explination can be found here: https://goo.gl/Pwa1gw
 """
 import urllib.request
